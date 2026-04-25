@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.idea/inspectionProfiles" />
     </content>
+    <content url="file://$MODULE_DIR$/../BigDataSpark" />
+    <content url="file://$MODULE_DIR$/../Data-Analytics/lab2/BigDataSpark" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
